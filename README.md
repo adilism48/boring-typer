@@ -1,4 +1,4 @@
-# Boring typer
+# [Boring typer]
 
 Boring typer is a ReactJS web app for my mid's.
 
@@ -19,3 +19,4 @@ npm install
 
 [//]: #
 [ReactJS]: <https://react.dev/>
+[Boring typer]: <https://adilism48.github.io/boring-typer/>
