@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boring-typer/static/css/main.bce78c95.css",
+    "main.js": "/boring-typer/static/js/main.b508558a.js",
+    "index.html": "/boring-typer/index.html",
+    "main.bce78c95.css.map": "/boring-typer/static/css/main.bce78c95.css.map",
+    "main.b508558a.js.map": "/boring-typer/static/js/main.b508558a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce78c95.css",
+    "static/js/main.b508558a.js"
+  ]
+}
